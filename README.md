@@ -24,7 +24,7 @@ We primarily use the statistical programming language [R](https://cran.r-project
 - Never pay for access to a paper
 - links to library, google scholar, setting up VPN, etc.
 
-In our [lab Zotero collection](https://happygitwithr.com/) you'll find a folder called REU Reading with sub-folders for general advice for doing science, and background reading for the BDFFP and on *Heliconia acuminata*.  This isn't meant to be a required reading list necessarily, so don't feel like you have to read everything right away.
+In our [lab Zotero collection](https://www.zotero.org/groups/2603950/heliconia-frag-drought) you'll find a folder called REU Reading with sub-folders for general advice for doing science, and background reading for the BDFFP and on *Heliconia acuminata*.  This isn't meant to be a required reading list necessarily, so don't feel like you have to read everything right away.
 
 # Getting started with R
 - links to good beginner R tutorial
