@@ -1,3 +1,5 @@
+This is a draft mentorship agreement to be collectively edited by Emilio Bruna, Eric Scott, Andrew Mercadante, and Ellie McDaniel.
+
 # Expectations
 
 ## Lab Code of Conduct
