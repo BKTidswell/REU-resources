@@ -21,7 +21,8 @@ Eric almost always has Slack open when he's working, and Emilio checks in often 
 
 # Zoom
 
-Eric *might* make us a lab [gather.town](https://gather.town/) space, but for now we'll hold weekly meetings and other meetings over [Zoom](https://ufl.zoom.us/).
+Meetings will be held over Zoom.
+If you don't already have Zoom installed, get started [here](https://ufl.zoom.us/)
 
 # R and RStudio
 
@@ -31,8 +32,8 @@ Both are free, and you should install both if you're going to use your personal 
 
 ## Getting started with R
 
--   links to good beginner R tutorial
--   R4DS for intermediate data science type stuff
+-   [Data Analysis and Visualization in R for Ecologists](https://datacarpentry.org/R-ecology-lesson/index.html) from Data Carpentry is a good book for beginner to intermediate R users.
+-   [R for Data Science](https://r4ds.had.co.nz/) is a great book for beginner to intermediate R users that focuses on practical skills related to wrangling, visualizing, and exploring data (but not statistics) using the [tidyverse](https://www.tidyverse.org/). This book assumes you know a little bit about R, so it's probably not appropriate for those completely new to R or programming.
 
 # Git and GitHub
 
@@ -41,6 +42,11 @@ GitHub is this website right here!
 It's a website for collaboratively interacting with git-tracked projects.
 You will be trained in the use of git and GitHub as it will be an important way for us to share code and collaborate on projects.
 
-**Resources and reference:**
+## Resources and reference
+
+-   RStudio [webinar](https://www.rstudio.com/resources/webinars/managing-part-2-github-and-rstudio/) on version control in general and using Git and GitHub through RStudio.
+    A bit old (2016), but it's not out of date.
+
+-   [How to use Git with R and RStudio](https://www.geo.uzh.ch/microsite/reproducible_research/post/rr-rstudio-git/) is a web tutorial focused on using Git and GitHub from within RStudio.
 
 -   A comprehensive guide for working with git and GitHub through RStudio: <https://happygitwithr.com/>
