@@ -4,6 +4,8 @@ Check out the [mentoring agreement](mentoring-agreement.md) and list of recommen
 
 ## Syllabus
 
+tentative start date: may 1
+
 In addition to working on individual research projects, we will discuss topics related to ecology and STEM in general each week.
 
 (Will change order later)
