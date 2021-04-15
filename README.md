@@ -20,3 +20,11 @@ In addition to working on individual research projects, we will discuss topics r
 | CV workshop                                           |      |                                                                              |                                                                              |
 | Justice Equity Diversity and Inclusion (JEDI) in STEM |      | Too big of a topic? Need to break apart?                                     |                                                                              |
 | Student Practice Talks / Poster presentations         |      |                                                                              |                                                                              |
+
+Other possible topics driven by student interest:
+
+-   developing hypotheses
+
+-   find the right grad school
+
+-   science careers beyond academia
