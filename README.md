@@ -3,10 +3,6 @@
 Check out the [mentoring agreement](mentoring-agreement.md) and list of recommended [software](software.md) for the lab.
 <!--# more here about structure of repo and purpose -->
 
-\#TODO:
-
--   figure out rough dates of tehse weeks and allow time for ESA watch party (aug 2-6)
-
 ## Syllabus
 
 In addition to weekly individual Zoom meetings with Eric, we will hold weekly lab meetings (time TBD) to discuss topics related to your projects as well as professional development and other important topics in science.
@@ -55,6 +51,7 @@ Eric/Emilio will demonstrate, and then later help you get things set up on your 
 
 **Additional readings:**
 
+-   <https://guides.github.com/activities/hello-world/>
 -   [happygitwithr.com](https://happygitwithr.com/)
 
 ------------------------------------------------------------------------
