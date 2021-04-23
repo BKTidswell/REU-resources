@@ -6,12 +6,8 @@ Useful software/web resources that the lab uses
 
 We use [Zotero](https://www.zotero.org/) as a reference manager for organizing, sharing, reading, and annotating journal articles.
 Zotero is free to use, but the free plan does have a limit to how many PDFs it can store or sync to your personal library.
-If you join the [Bruna Lab group Zotero collection](https://www.zotero.org/groups/2603950/heliconia-frag-drought), however, this shouldn't be an issue.
+If you join the [Bruna Lab group Zotero collection](https://www.zotero.org/groups/2603950/heliconia-frag-drought), however, this shouldn't be an issue <!--# actually it is, its out of space now -->.
 We recommend you download the desktop version of Zotero and install the browser connector.
-
-In our [lab Zotero collection](https://www.zotero.org/groups/2603950/heliconia-frag-drought) you'll find a folder called REU Reading with sub-folders for general advice for doing science, and background reading for the BDFFP and on *Heliconia acuminata*.
-This isn't meant to be a required reading list necessarily, so don't feel like you have to read everything right away.
-<!--# this should go in the README -->
 
 # Slack
 
