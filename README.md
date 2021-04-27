@@ -12,7 +12,7 @@ Readings can be found in the [lab Zotero collection](https://www.zotero.org/grou
 
 ------------------------------------------------------------------------
 
-### Module 1: Laying the foundation for a successful experienc
+### Module 1: Laying the foundation for a successful experience
 
 #### Week 1: Welcome / Getting started
 
@@ -28,7 +28,7 @@ Readings can be found in the [lab Zotero collection](https://www.zotero.org/grou
 
 #### Week 2: *Heliconia acuminata* and BDFFP
 
-Eric will give a presentation on his project, introducing the system and dataset(s) you'll be working with.
+Eric will give a presentation on his project, introducing the system and dataset(s) you'll be working with for your projects.
 
 **Read before:**
 
@@ -87,7 +87,9 @@ Possible topics include (but aren't limited to):
 
 **Additional readings:**
 
--   something about why scientists falsify data? Like, discuss pressures of academia that lead to data falsification and discuss systemic solutions?
+-   [The pre-registration revolution](https://www.pnas.org/content/115/11/2600)
+-   [Fanelli et al. 2017](https://www.biorxiv.org/content/10.1101/126805v1)
+-   [Fanelli 2009](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005738)
 
 #### Week 5: Scientific writing and publishing
 
@@ -97,6 +99,8 @@ Possible topics include (but aren't limited to):
 -   TBD
 
 **Additional readings:**
+
+-   [The Scientists Guide to Writing](http://lp.hscl.ufl.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,uid&db=cat04364a&AN=ufl.037878045&site=eds-live)
 
 #### Week 6: Student chosen topic
 
