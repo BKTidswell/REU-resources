@@ -1,7 +1,7 @@
 # Bruna Lab REU Summer 2021 resources
 
-Check out the [mentoring agreement](mentoring-agreement.md) and list of recommended [software](software.md) for the lab.
-<!--# more here about structure of repo and purpose -->
+This repository contains materials related to doing summer research in the Bruna lab in 2021.
+Be sure to check out the [mentoring agreement](mentoring-agreement.md), recommended [software](software.md) for the lab, and the lab code of conduct.
 
 ## Syllabus
 
@@ -9,6 +9,8 @@ In addition to weekly individual Zoom meetings with Eric, we will hold weekly la
 The topics are subject to change (especially later in the summer) and we will ask for your feedback and suggestions, so think of this as a draft or an example.
 Additional readings are things you should look through on your own outside of lab meeting and discuss with everyone on Slack if you want.
 Readings can be found in the [lab Zotero collection](https://www.zotero.org/groups/2603950/heliconia-frag-drought) as well as in your welcome binder.
+
+**Start date: May 14th**
 
 ------------------------------------------------------------------------
 
@@ -116,6 +118,6 @@ Possible topics include (but aren't limited to):
 
 #### Week 10: Justice, equity, diversity, and inclusion (JEDI) in STEM
 
-#### Week 11: Practice talks / poster presentations
+#### Week 11: Ecological Society of America meeting (Aug 2–6) watch party 
 
-#### Week 12: Ecological Society of America meeting watch party
+#### Week 12: Practice talks / poster presentations
