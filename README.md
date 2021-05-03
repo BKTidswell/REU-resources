@@ -1,7 +1,7 @@
 # Bruna Lab REU Summer 2021 resources
 
 This repository contains materials related to doing summer research in the Bruna lab in 2021.
-Be sure to check out the [mentoring agreement](mentoring-agreement.md), recommended [software](software.md) for the lab, and the lab code of conduct.
+Be sure to check out the [mentoring agreement](mentoring-agreement.md), recommended [software](software.md) for the lab, and the [lab code of conduct](https://github.com/BrunaLab/Code_of_Conduct).
 
 ## Syllabus
 
@@ -20,8 +20,8 @@ Readings can be found in the [lab Zotero collection](https://www.zotero.org/grou
 
 **Read before:**
 
--   Lab code of conduct
--   mentorship agreement
+-   [Lab code of conduct](https://github.com/BrunaLab/Code_of_Conduct)
+-   [Mentorship agreement](mentoring-agreement.md)
 
 **Additional readings:**
 
@@ -118,6 +118,6 @@ Possible topics include (but aren't limited to):
 
 #### Week 10: Justice, equity, diversity, and inclusion (JEDI) in STEM
 
-#### Week 11: Ecological Society of America meeting (Aug 2–6) watch party 
+#### Week 11: Ecological Society of America meeting (Aug 2–6) watch party
 
 #### Week 12: Practice talks / poster presentations

@@ -4,8 +4,7 @@ This is a draft mentorship agreement to be collectively edited by Emilio Bruna, 
 
 ## Lab Code of Conduct
 
-Everyone in the lab is expected to read and follow the [lab code of conduct](code-of-conduct.md).
-After you've read the code of conduct, add your name to the document on GitHub.
+Everyone in the lab is expected to read and follow the [lab code of conduct](https://github.com/BrunaLab/Code_of_Conduct).
 
 ## Self-directed Learning
 
