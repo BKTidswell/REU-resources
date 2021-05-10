@@ -74,12 +74,13 @@ Possible topics include (but aren't limited to):
 
 **Read before:**
 
--   Wilson et al. 2017. Good enough practices in scientific computing
+-   Alston & Rick 2021. A Beginner's Guide to Conducting Reproducible Research
 
 **Additional readings:**
 
--   Croucher et al. 2017. A guide to reproducible code in ecology and evolution.
--   Broman and Woo 2018. Data Organization in Spreadsheets.
+-   Wilson et al. 2017. Good enough practices in scientific computing
+-   Croucher et al. 2017. A guide to reproducible code in ecology and evolution
+-   Broman and Woo 2018. Data Organization in Spreadsheets
 
 #### Week 4: Avoiding "questionable research practices"
 
