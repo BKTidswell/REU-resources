@@ -47,6 +47,7 @@ Readings can be found in the [lab Zotero collection](https://www.zotero.org/grou
 -   [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
 -   [RStudio Keyboard Shortcuts](https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts)
 -   [Customizing RStudio](https://support.rstudio.com/hc/en-us/articles/200549016-Customizing-RStudio)
+-   Wickham & Grolemund: [R for Data Science](https://r4ds.had.co.nz/)
 
 
 
