@@ -18,7 +18,7 @@ Readings can be found in the [lab Zotero collection](https://www.zotero.org/grou
 
 #### Week 1
 
-1. Welcome / Getting started
+1. Welcome / Getting started. 
 
 **Read before:**
 
@@ -31,7 +31,7 @@ Readings can be found in the [lab Zotero collection](https://www.zotero.org/grou
 -   [How to (seriously) read a scientific paper.](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
 
 
-2. Version Control & RStudio Projects
+2. Version Control & RStudio Projects. 
 
 **Read before:**
 
