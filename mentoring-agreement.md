@@ -1,4 +1,3 @@
-This is a draft mentorship agreement to be collectively edited by Emilio Bruna, Eric Scott, Andrew Mercadante, and Ellie McDaniel.
 
 # Expectations
 
@@ -22,9 +21,19 @@ You should expect Eric to be active in the lab Slack during his working hours (r
 Emilio will also be active on the lab Slack and will be available to meet when needed outside of our weekly lab meetings.
 Emilio will be the first point of contact if you need in-person help with something, such as getting set up with a desk or lab computer on campus.
 
-You should expect us to ... <!--# lost my train of thought. -->
+You should expect us to:
+- Be facilitators, not a hinderance
+- Keep regularly scheduled meetings and checkins
+- Check in ~daily (M--F) on the lab Slack channel
+- Be flexible in scheduling
+- Get mentees started on independent projects quickly
 
 ## Mentee Expectations
+
+- Keep up with reading before lab meetings, ask questions and participate
+- Come prepared to individual meetings.
+- Check in ~daily (M--F) on the lab Slack channel.
+- Let us know if you're not going to make a meeting or will be out of the office.
 
 ### Work Hours
 
@@ -44,5 +53,5 @@ This does not mean you are on your own---definitely ask questions of your mentor
 
 ### Feedback
 
-If there's something we are doing that is holding you back or making the REU experience un-enjoyable, or there is something we could be doing to enhance your learning experience, we expect you to let us know.
+If there's something we are doing that is holding you back or making the REU experience un-enjoyable, or there is something we could be doing to enhance your learning experience, we expect you to let us know. 
 We welcome suggestions and constructive criticism and we will do our best to make changes to help you get the most out of the summer.
