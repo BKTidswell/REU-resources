@@ -37,12 +37,16 @@ Readings can be found in the [lab Zotero collection](https://www.zotero.org/grou
 
 -   Bryan 2018. Excuse me, do you have a moment to talk about version control?
 -   Chapter 1 of [happygitwithr.com](https://happygitwithr.com/)
+-   [HW Style Guide for R Code](http://adv-r.had.co.nz/Style.html)
 
-**Additional readings:**
+**Additional readings & Resources:**
 
 -   <https://guides.github.com/activities/hello-world/>
 -   [happygitwithr.com](https://happygitwithr.com/)
 -   [BES Guide to Reproducible Code](https://www.britishecologicalsociety.org/wp-content/uploads/2019/06/BES-Guide-Reproducible-Code-2019.pdf)
+-   [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
+-   [RStudio Keyboard Shortcuts](https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts)
+-   [Customizing RStudio](https://support.rstudio.com/hc/en-us/articles/200549016-Customizing-RStudio)
 
 
 
