@@ -38,6 +38,11 @@ GitHub is this website right here!
 It's a website for collaboratively interacting with git-tracked projects.
 You will be trained in the use of git and GitHub as it will be an important way for us to share code and collaborate on projects.
 
+# Some useful R packages for getting started
+
+-  [Tidyverse](https://cran.r-project.org/web/packages/tidyverse/index.html): a set of packages for importaing, tidying, and visualizing data (and so much more).
+-  [usethis](https://cran.r-project.org/web/packages/usethis/index.html): Automate Package and Project Setup
+
 ## Resources and reference
 
 -   RStudio [webinar](https://www.rstudio.com/resources/webinars/managing-part-2-github-and-rstudio/) on version control in general and using Git and GitHub through RStudio.
