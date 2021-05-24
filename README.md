@@ -16,9 +16,9 @@ Readings can be found in the [lab Zotero collection](https://www.zotero.org/grou
 
 ### Module 1: Laying the foundation for a successful experience
 
-#### Week 1
+## Week 1
 
-### Welcome / Getting started
+# Welcome / Getting started
 
 **Read before:**
 
@@ -31,7 +31,7 @@ Readings can be found in the [lab Zotero collection](https://www.zotero.org/grou
 -   [How to (seriously) read a scientific paper.](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
 
 
-### Version Control & RStudio Projects
+# Version Control & RStudio Projects
 
 **Read before:**
 
@@ -43,6 +43,8 @@ Readings can be found in the [lab Zotero collection](https://www.zotero.org/grou
 -   <https://guides.github.com/activities/hello-world/>
 -   [happygitwithr.com](https://happygitwithr.com/)
 -   [BES Guide to Reproducible Code](https://www.britishecologicalsociety.org/wp-content/uploads/2019/06/BES-Guide-Reproducible-Code-2019.pdf)
+
+
 
 
 #### Week 2: *Heliconia acuminata* and BDFFP
