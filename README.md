@@ -72,6 +72,8 @@ Possible topics include (but aren't limited to):
 
 #### Week 3: Reproducible research
 
+Presentation: <https://github.com/BrunaLab/reproducibility-presentation>
+
 **Read before:**
 
 -   Alston & Rick 2021. A Beginner's Guide to Conducting Reproducible Research
