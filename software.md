@@ -31,6 +31,11 @@ Both are free, and you should install both if you're going to use your personal 
 -   [Data Analysis and Visualization in R for Ecologists](https://datacarpentry.org/R-ecology-lesson/index.html) from Data Carpentry is a good book for beginner to intermediate R users.
 -   [R for Data Science](https://r4ds.had.co.nz/) is a great book for beginner to intermediate R users that focuses on practical skills related to wrangling, visualizing, and exploring data (but not statistics) using the [tidyverse](https://www.tidyverse.org/). This book assumes you know a little bit about R, so it's probably not appropriate for those completely new to R or programming.
 
+## useful packages when getting started with R
+
+-  [Tidyverse](https://cran.r-project.org/web/packages/tidyverse/index.html): a set of packages for importaing, tidying, and visualizing data (and so much more).
+-  [usethis](https://cran.r-project.org/web/packages/usethis/index.html): Automate Package and Project Setup
+
 # Git and GitHub
 
 Git is a [version control](https://peerj.com/preprints/3159/) software that is probably already installed on your computer if you use a mac, and can be installed for Windows [here](https://git-scm.com/download/win).

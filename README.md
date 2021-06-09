@@ -16,7 +16,9 @@ Readings can be found in the [lab Zotero collection](https://www.zotero.org/grou
 
 ### Module 1: Laying the foundation for a successful experience
 
-#### Week 1: Welcome / Getting started
+#### Week 1
+
+1. Welcome / Getting started. 
 
 **Read before:**
 
@@ -27,6 +29,28 @@ Readings can be found in the [lab Zotero collection](https://www.zotero.org/grou
 
 -   Chhatre 2020. Some modest and practical advice for undergraduate researchers.
 -   [How to (seriously) read a scientific paper.](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
+
+
+2. Version Control & RStudio Projects. 
+
+**Read before:**
+
+-   Bryan 2018. Excuse me, do you have a moment to talk about version control?
+-   Chapter 1 of [happygitwithr.com](https://happygitwithr.com/)
+-   [HW Style Guide for R Code](http://adv-r.had.co.nz/Style.html)
+
+**Additional readings & Resources:**
+
+-   <https://guides.github.com/activities/hello-world/>
+-   [happygitwithr.com](https://happygitwithr.com/)
+-   [BES Guide to Reproducible Code](https://www.britishecologicalsociety.org/wp-content/uploads/2019/06/BES-Guide-Reproducible-Code-2019.pdf)
+-   [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
+-   [RStudio Keyboard Shortcuts](https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts)
+-   [Customizing RStudio](https://support.rstudio.com/hc/en-us/articles/200549016-Customizing-RStudio)
+-   Wickham & Grolemund: [R for Data Science](https://r4ds.had.co.nz/)
+
+
+
 
 #### Week 2: *Heliconia acuminata* and BDFFP
 
@@ -41,20 +65,6 @@ Eric will give a presentation on his project, introducing the system and dataset
 
 -   See lab Zotero collection or binder for additional papers.
 
-#### TBD: Version Control
-
-At some point in the first two weeks, we'll schedule an additional meeting to talk about version control.
-Eric/Emilio will demonstrate, and then later help you get things set up on your computers.
-
-**Read before:**
-
--   Bryan 2018. Excuse me, do you have a moment to talk about version control?
--   Chapter 1 of [happygitwithr.com](https://happygitwithr.com/)
-
-**Additional readings:**
-
--   <https://guides.github.com/activities/hello-world/>
--   [happygitwithr.com](https://happygitwithr.com/)
 
 ------------------------------------------------------------------------
 
