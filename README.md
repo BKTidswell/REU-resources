@@ -18,39 +18,35 @@ Readings can be found in the [lab Zotero collection](https://www.zotero.org/grou
 
 #### Week 1
 
-1. Welcome / Getting started. 
+1.  Welcome / Getting started.
 
-**Read before:**
+    **Read before:**
 
--   [Lab code of conduct](https://github.com/BrunaLab/Code_of_Conduct)
--   [Mentorship agreement](mentoring-agreement.md)
+    -   [Lab code of conduct](https://github.com/BrunaLab/Code_of_Conduct)
+    -   [Mentorship agreement](mentoring-agreement.md)
 
-**Additional readings:**
+    **Additional readings:**
 
--   Chhatre 2020. Some modest and practical advice for undergraduate researchers.
--   [How to (seriously) read a scientific paper.](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
+    -   Chhatre 2020. Some modest and practical advice for undergraduate researchers.
+    -   [How to (seriously) read a scientific paper.](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
 
+2.  Version Control & RStudio Projects.
 
-2. Version Control & RStudio Projects. 
+    **Read before:**
 
-**Read before:**
+    -   Bryan 2018. Excuse me, do you have a moment to talk about version control?
+    -   Chapter 1 of [happygitwithr.com](https://happygitwithr.com/)
+    -   [HW Style Guide for R Code](http://adv-r.had.co.nz/Style.html)
 
--   Bryan 2018. Excuse me, do you have a moment to talk about version control?
--   Chapter 1 of [happygitwithr.com](https://happygitwithr.com/)
--   [HW Style Guide for R Code](http://adv-r.had.co.nz/Style.html)
+    **Additional readings & Resources:**
 
-**Additional readings & Resources:**
-
--   <https://guides.github.com/activities/hello-world/>
--   [happygitwithr.com](https://happygitwithr.com/)
--   [BES Guide to Reproducible Code](https://www.britishecologicalsociety.org/wp-content/uploads/2019/06/BES-Guide-Reproducible-Code-2019.pdf)
--   [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
--   [RStudio Keyboard Shortcuts](https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts)
--   [Customizing RStudio](https://support.rstudio.com/hc/en-us/articles/200549016-Customizing-RStudio)
--   Wickham & Grolemund: [R for Data Science](https://r4ds.had.co.nz/)
-
-
-
+    -   <https://guides.github.com/activities/hello-world/>
+    -   [happygitwithr.com](https://happygitwithr.com/)
+    -   [BES Guide to Reproducible Code](https://www.britishecologicalsociety.org/wp-content/uploads/2019/06/BES-Guide-Reprod%20ucible-Code-2019.pdf)
+    -   [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
+    -   [RStudio Keyboard Shortcuts](https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts)
+    -   [Customizing RStudio](https://support.rstudio.com/hc/en-us/articles/200549016-Customizing-RStudio)
+    -   Wickham & Grolemund: [R for Data Science](https://r4ds.had.co.nz/)
 
 #### Week 2: *Heliconia acuminata* and BDFFP
 
@@ -64,7 +60,6 @@ Eric will give a presentation on his project, introducing the system and dataset
 **Additional readings:**
 
 -   See lab Zotero collection or binder for additional papers.
-
 
 ------------------------------------------------------------------------
 
@@ -91,10 +86,19 @@ Presentation: <https://github.com/BrunaLab/reproducibility-presentation>
 **Additional readings:**
 
 -   Wilson et al. 2017. Good enough practices in scientific computing
+
 -   Croucher et al. 2017. A guide to reproducible code in ecology and evolution
+
 -   Broman and Woo 2018. Data Organization in Spreadsheets
 
-#### Week 4: Avoiding "questionable research practices"
+#### Week 4: Literature searching with Web of Science
+
+**Before:**
+
+- Check that you can log in to Web of Science using either a VPN or the [library  proxy link](http://apps.webofknowledge.com.lp.hscl.ufl.edu/)
+
+
+#### Week ?: Avoiding "questionable research practices"
 
 **Read before:**
 
@@ -106,7 +110,7 @@ Presentation: <https://github.com/BrunaLab/reproducibility-presentation>
 -   [Fanelli et al. 2017](https://www.biorxiv.org/content/10.1101/126805v1)
 -   [Fanelli 2009](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005738)
 
-#### Week 5: Scientific writing and publishing
+#### Week ?: Scientific writing and publishing
 
 **Read before:**
 
