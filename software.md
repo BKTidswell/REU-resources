@@ -6,7 +6,7 @@ Useful software/web resources that the lab uses
 
 We use [Zotero](https://www.zotero.org/) as a reference manager for organizing, sharing, reading, and annotating journal articles.
 Zotero is free to use, but the free plan does have a limit to how many PDFs it can store or sync to your personal library.
-If you join the [Bruna Lab group Zotero collection](https://www.zotero.org/groups/2603950/heliconia-frag-drought), however, this shouldn't be an issue <!--# actually it is, its out of space now -->.
+If you join the [Bruna Lab group Zotero collection](https://www.zotero.org/groups/2603950/heliconia-frag-drought), however, this shouldn't be an issue.
 We recommend you download the desktop version of Zotero and install the browser connector.
 
 # Slack
@@ -31,10 +31,10 @@ Both are free, and you should install both if you're going to use your personal 
 -   [Data Analysis and Visualization in R for Ecologists](https://datacarpentry.org/R-ecology-lesson/index.html) from Data Carpentry is a good book for beginner to intermediate R users.
 -   [R for Data Science](https://r4ds.had.co.nz/) is a great book for beginner to intermediate R users that focuses on practical skills related to wrangling, visualizing, and exploring data (but not statistics) using the [tidyverse](https://www.tidyverse.org/). This book assumes you know a little bit about R, so it's probably not appropriate for those completely new to R or programming.
 
-## useful packages when getting started with R
+## Useful packages when getting started with R
 
--  [Tidyverse](https://cran.r-project.org/web/packages/tidyverse/index.html): a set of packages for importaing, tidying, and visualizing data (and so much more).
--  [usethis](https://cran.r-project.org/web/packages/usethis/index.html): Automate Package and Project Setup
+-   [Tidyverse](https://cran.r-project.org/web/packages/tidyverse/index.html): a set of packages for importing, tidying, and visualizing data (and so much more).
+-   [usethis](https://cran.r-project.org/web/packages/usethis/index.html): Automate Package and Project Setup
 
 # Git and GitHub
 
