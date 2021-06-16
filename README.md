@@ -98,7 +98,11 @@ Presentation: <https://github.com/BrunaLab/reproducibility-presentation>
 - Check that you can log in to Web of Science using either a VPN or the [library  proxy link](http://apps.webofknowledge.com.lp.hscl.ufl.edu/)
 
 
-#### Week ?: Avoiding "questionable research practices"
+#### Week 5: Peer Code Review
+
+Andrew and Emilio have volunteered some of their code for our first [[peer code review]](https://github.com/BrunaLab/REU-resources/blob/main/lab-meetings/peer-code-review.md) session!
+
+#### Week 6: Avoiding "questionable research practices"
 
 **Read before:**
 
