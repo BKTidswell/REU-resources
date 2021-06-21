@@ -111,7 +111,7 @@ Andrew and Emilio have volunteered some of their code for our first [[peer code 
 **Additional readings:**
 
 -   [The pre-registration revolution](https://www.pnas.org/content/115/11/2600)
--   [Fanelli et al. 2017](https://www.biorxiv.org/content/10.1101/126805v1)
+-   [Fanelli et al. 2017](https://link.springer.com/article/10.1007%2Fs11948-018-0023-7)
 -   [Fanelli 2009](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005738)
 
 #### Week ?: Scientific writing and publishing
