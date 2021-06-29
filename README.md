@@ -114,19 +114,6 @@ Andrew and Emilio have volunteered some of their code for our first [[peer code 
 -   [Fanelli et al. 2017](https://link.springer.com/article/10.1007%2Fs11948-018-0023-7)
 -   [Fanelli 2009](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005738)
 
-#### Week ?: Scientific writing and publishing
-
-**Read before:**
-
--   Flowers 1981. Madman, Architect, Carpenter, Judge: Roles and the Writing Process
--   TBD
-
-**Additional readings:**
-
--   [The Scientists Guide to Writing](http://lp.hscl.ufl.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,uid&db=cat04364a&AN=ufl.037878045&site=eds-live)
-
-#### Week 6: Student chosen topic
-
 #### Week 7: Student chosen topic
 
 #### Week 8: Student chosen topic
