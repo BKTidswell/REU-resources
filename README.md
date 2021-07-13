@@ -125,6 +125,7 @@ Andrew and Emilio have volunteered some of their code for our first [[peer code 
 #### Week 9: Science Communication
 
 **Posters**
+
 - Making Better Posters ([book/blog](http://betterposters.blogspot.com/)
 - [The Alternative New Poster Design that rocked the science world](https://www.insidehighered.com/news/2019/06/24/theres-movement-better-scientific-posters-are-they-really-better)
 - Pinterest Collections of cool posters: [Board 1](https://www.pinterest.co.uk/marieclairekoschowitz/awesome-conference-poster/), [Board 2](https://www.pinterest.co.uk/pin/852095191972801041/)
@@ -133,6 +134,7 @@ Andrew and Emilio have volunteered some of their code for our first [[peer code 
 
 - MUST READ: Maëlle Salmon's primer on [Where to get help with your R question?](https://masalmon.eu/2018/07/22/wheretogethelp/)
 - MUST READ: Hadley Wickham's [How to write a reproducible example](http://adv-r.had.co.nz/Reproducibility.html)
+- The [`reprex` package](https://reprex.tidyverse.org/)
 - R Foundation Posting Guide: [How to ask good questions that prompt useful answers](https://www.r-project.org/posting-guide.html).
 - Example: [Emilio's first question](https://stackoverflow.com/questions/18406652/split-a-vector-into-three-vectors-of-unequal-length-in-r) on StackOverflow. After two days of struggling I posted the question at 15:33 pm; the solution was posted only four minutes later! And it can help others too...this question is the recipient of a "Famous Question" badge for having >10,000 views.
 - [UF R users list-serv](https://lists.ufl.edu/cgi-bin/wa?A0=R-USERS-L)
