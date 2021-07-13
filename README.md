@@ -114,15 +114,19 @@ Andrew and Emilio have volunteered some of their code for our first [[peer code 
 -   [Fanelli et al. 2017](https://link.springer.com/article/10.1007%2Fs11948-018-0023-7)
 -   [Fanelli 2009](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005738)
 
-#### Week 7: Student chosen topic
+#### Week 7: Andrew 
 
-#### Week 8: Student chosen topic
+#### Week 8: Ellie
 
 ------------------------------------------------------------------------
 
 ### Module 3: Science and Society
 
 #### Week 9: Science Communication
+
+- Making Better Posters ([book/blog](http://betterposters.blogspot.com/)
+- [The Alternative New Poster Design that rocked the science world](https://www.insidehighered.com/news/2019/06/24/theres-movement-better-scientific-posters-are-they-really-better)
+- Pinterest Collections of cool posters: [Board 1](https://www.pinterest.co.uk/marieclairekoschowitz/awesome-conference-poster/), [Board 2](https://www.pinterest.co.uk/pin/852095191972801041/)
 
 #### Week 10: Justice, equity, diversity, and inclusion (JEDI) in STEM
 
