@@ -54,8 +54,8 @@ Eric will give a presentation on his project, introducing the system and dataset
 
 **Read before:**
 
--   Bierregaard et al. 1992. The biological dynamics of tropical rainforest fragments.
--   Bruna and Kress 2002. Habitat fragmentation and the demographic structure of an Amazonian understory herb (*Heliconia acuminata*)
+-   Bierregaard et al. 1992. The biological dynamics of tropical rainforest fragments. _BioScience_ 42(11): 859–866. [pdf](https://doi.org/10.2307/1312085)
+-   Bruna, EM and WJ Kress 2002. Habitat fragmentation and the demographic structure of an Amazonian understory herb (*Heliconia acuminata*). *Conservation Biology* 16(5):1256-1266 [pdf of paper on Smithsonian repository](https://repository.si.edu/bitstream/handle/10088/1586/Bruna_and_Kress.pdf?sequence=1&isAllowed=y)
 
 **Additional readings:**
 
@@ -81,15 +81,15 @@ Presentation: <https://github.com/BrunaLab/reproducibility-presentation>
 
 **Read before:**
 
--   Alston & Rick 2021. A Beginner's Guide to Conducting Reproducible Research
+-   Alston, J. M., and Rick, J. A.. 2020. A Beginner's Guide to Conducting Reproducible Research. Bull Ecol Soc Am 102( 2):e01801. [pdf](https://doi.org/10.1002/bes2.1801)
 
 **Additional readings:**
 
--   Wilson et al. 2017. Good enough practices in scientific computing
+-   Wilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, Teal TK (2017) Good enough practices in scientific computing. PLoS Comput Biol 13(6): e1005510. [pdf](https://doi.org/10.1371/journal.pcbi.1005510)
 
--   Croucher et al. 2017. A guide to reproducible code in ecology and evolution
+-   Croucher et al. 2017. A guide to reproducible code in ecology and evolution. British Ecological Society [pdf](https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf)
 
--   Broman and Woo 2018. Data Organization in Spreadsheets
+-   Karl W. Broman & Kara H. Woo (2018) Data Organization in Spreadsheets. The American Statistician, 72:1, 2-10, [pdf](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
 
 #### Week 4: Literature searching with Web of Science
 
@@ -114,15 +114,30 @@ Andrew and Emilio have volunteered some of their code for our first [[peer code 
 -   [Fanelli et al. 2017](https://link.springer.com/article/10.1007%2Fs11948-018-0023-7)
 -   [Fanelli 2009](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005738)
 
-#### Week 7: Student chosen topic
+#### Week 7: Andrew 
 
-#### Week 8: Student chosen topic
+#### Week 8: Ellie
 
 ------------------------------------------------------------------------
 
 ### Module 3: Science and Society
 
 #### Week 9: Science Communication
+
+**Posters**
+- Making Better Posters ([book/blog](http://betterposters.blogspot.com/)
+- [The Alternative New Poster Design that rocked the science world](https://www.insidehighered.com/news/2019/06/24/theres-movement-better-scientific-posters-are-they-really-better)
+- Pinterest Collections of cool posters: [Board 1](https://www.pinterest.co.uk/marieclairekoschowitz/awesome-conference-poster/), [Board 2](https://www.pinterest.co.uk/pin/852095191972801041/)
+
+**Getting R help online**
+
+- MUST READ: Maëlle Salmon's primer on [Where to get help with your R question?](https://masalmon.eu/2018/07/22/wheretogethelp/)
+- MUST READ: Hadley Wickham's [How to write a reproducible example](http://adv-r.had.co.nz/Reproducibility.html)
+- R Foundation Posting Guide: [How to ask good questions that prompt useful answers](https://www.r-project.org/posting-guide.html).
+- Example: [Emilio's first question](https://stackoverflow.com/questions/18406652/split-a-vector-into-three-vectors-of-unequal-length-in-r) on StackOverflow. After two days of struggling I posted the question at 15:33 pm; the solution was posted only four minutes later! And it can help others too...this question is the recipient of a "Famous Question" badge for having >10,000 views.
+- [UF R users list-serv](https://lists.ufl.edu/cgi-bin/wa?A0=R-USERS-L)
+- [StackOverflow](https://stackoverflow.com/)
+
 
 #### Week 10: Justice, equity, diversity, and inclusion (JEDI) in STEM
 
