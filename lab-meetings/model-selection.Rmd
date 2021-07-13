@@ -1,0 +1,173 @@
+---
+title: "Hypothesis Testing and Model Selection"
+author: Eric R. Scott
+date: "2021-07-13"
+output: html_notebook
+---
+
+# Summary
+
+If you have several predictors that could possibly explain some response, there are at least three general strategies for determining which (if any) are statistically important.  **Model selection** is the process of selecting among sets of predictors to find the set that best fits the data or best explains the response.  An alternative, the **marginal hypothesis test**, (AKA ANOVA) gives p-values for each predictor.  In general, it's not advised to mix the approaches.  Doing an ANOVA on an already reduced model biases the resulting p-values (ADD CITATION).
+
+This is an example of the approaches with some of Andrew's data and models
+
+```{r setup}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+```
+
+```{r packages}
+library(here)
+library(tidyverse)
+library(lme4)
+library(car) #for Anova()
+library(bbmle) #for AICtab()
+library(lmtest) #for lrtest()
+```
+
+# Read in data
+
+```{r}
+dist_data <- read_rds(here("data", "rough_dist_data_10m.rds"))
+noNA <- dist_data %>%
+  filter(!is.na(size_prev) & !is.na(surv))
+dist_data$year <- as.factor(dist_data$year)
+```
+
+# Model selection
+Model selection can happen with two approaches:
+
+1. Successive likelihood ratio tests on nested models
+2. AIC comparisons of multiple (potentially non-nested) models
+
+
+## Likelihood ratio tests
+
+While you can work from a null model and *add* predictors sucessively, I've generally been taught to start with a "full" or "saturated" model and whittle it down using likelihood ratio tests.
+
+Here's our full model:
+
+```{r}
+m_full <- 
+  glmer(surv ~ size_prev + bdffp_reserve_no + dist_near * dist_next + (1|year),
+        data = noNA, family = binomial)
+```
+
+Survival is a function of size in the previous year, the plot (`bdffp_reserve_no`), the distance to the nearest edge, the distance to the next nearest edge, and their interaction.  We also include a random effect of year (different intercepts for each year).
+
+
+### 1. Random effects
+
+First, check if the random effects significantly improve the model.  To do this, create a nested model without the random effects.  Why is it nested? Because it is a special case of `m_full` where the variance among years is 0 (only one intercept).
+
+```{r}
+m1 <- 
+  glm(surv ~ size_prev + bdffp_reserve_no + dist_near * dist_next,
+        data = noNA, family = binomial)
+```
+
+Then, performa  likelihood ratio test with `lrtest()`
+
+```{r}
+lrtest(m1, m_full)
+```
+
+The test is significant, so we keep the random effect.
+
+### 2. Interactions
+
+Next, we try removing interactions.  We create another set of nested models by removing the interaction term from `m_full`.  Note that we've kept the random effect.
+
+```{r}
+m2 <- 
+  glmer(surv ~ size_prev + bdffp_reserve_no + dist_near + dist_next + (1|year),
+        data = noNA, family = binomial)
+```
+
+```{r}
+lrtest(m2, m_full)
+```
+
+The test is not significant, so we get rid of interaction.
+
+### 3. main effects
+
+Next, we start testing main effects.  Here's where it get's a little complicated.  We want to test all the main effects, but we need to make sure we are testing nested models.
+
+```{r}
+# no plot effect
+m3 <- 
+  glmer(surv ~ size_prev + dist_near + dist_next + (1|year),
+        data=noNA, family=binomial)
+# remove dist_next
+m4 <- 
+  glmer(surv ~ size_prev + bdffp_reserve_no + dist_near + (1|year),
+        data=noNA, family=binomial)
+# remove dist_near
+m5 <- 
+  glmer(surv ~ size_prev + bdffp_reserve_no + dist_next + (1|year),
+        data=noNA, family=binomial)
+
+# remove size_prev
+m6 <- 
+  glmer(surv ~ bdffp_reserve_no + dist_next + dist_near + (1|year),
+        data=noNA, family=binomial)
+```
+
+All of these models are nested within `m2`, but they are not all nested within eachother.  We can still compare them all to `m2` though.
+
+```{r}
+lrtest(m2, m3)
+#significant, keep plot
+lrtest(m2, m4)
+#non-significant, remove dist_next
+lrtest(m2, m5)
+#non-significant, remove dist_near
+lrtest(m2, m6)
+#significant, don't remove size_prev
+```
+
+So based on that series of tests we should remove `dist_near` and `dist_next`.  We can double-check with a LRT for a model with neither.
+
+```{r}
+m_red <- 
+  glmer(surv ~ size_prev + bdffp_reserve_no + (1|year),
+        data=noNA, family=binomial)
+lrtest(m2, m_red)
+```
+
+This is our "winning" model.
+
+## AIC
+
+AIC stands for Akaike's Information Criteron (AIC). It is calculated using likelihood and degrees of freedom.  It essentially penalizes degrees of freedom since adding a completely meaningless predictor will *always* improve likliehood.  To compare models with AIC, the only need to be fit using the same data---that means the same response variable (different predictors and `family` are allowed). Models don't need to be nested. The lowest AIC "wins".
+
+```{r}
+AIC(m_full, m1, m2, m3, m4, m5, m6, m_red)
+```
+This shows all of the raw AIC scores, but we really only care about the lowest AIC and how different the other models are from that "winning" model.
+
+```{r}
+bbmle::AICtab(m_full, m1, m2, m3, m4, m5, m6, m_red)
+```
+
+So `m_red` wins.  But models within dAIC < 2 shouldn't be "thrown out".  Report the predictors that are in the winning model and any models within 2 dAIC (`m4` and `m5`), and maybe the dAIC to the next best model.
+
+Both model selection methods don't give you p-values for individual predictor variables.
+
+# Marginal hypothesis test
+
+Marginal hypothesis tests give p-values for each predictor variable's "marginal" effect on the response. This is like their effect given that all other predictors are held constant.  It's what `Anova()` does.  So this is a pretty different approach where we are getting p-values for each predictor in a "saturated" model instead of choosing the best model.
+
+```{r}
+car::Anova(m_full)
+```
+
+We come to similar conclusions---that only `size_prev` and `bdffp_reserve_no` are significant, but that's not always the case.  You *can* have predictors in a "winning" model determined from AIC that are **not** significant if you just did `Anova()` on the full model.  
+
+It is tempting and relatively common in the literature to combine these approaches by first doing model selection, then running `Anova()` on the reduced model to get p-values to report.  But technically this shouldn't be done.  Doing `Anova()` on a reduced model can bias p-values since predictors have already been eliminated.
+
+```{r}
+car::Anova(m_red)
+```
+
+In the reduced model, the p-value for `bdffp_reserve_no` is quite a bit smaller than it is for the full model, because of the bias introduced by removing other predictors that, while not statistically significant, may explain some variation in the data.
