@@ -143,6 +143,24 @@ Andrew and Emilio have volunteered some of their code for our first [[peer code 
 
 #### Week 10: Justice, equity, diversity, and inclusion (JEDI) in STEM
 
-#### Week 11: Ecological Society of America meeting (Aug 2–6) watch party
+This week we will discuss a paper and pick out a few ESA talks to watch durring our last week's lab meeting ESA watch party.
 
-#### Week 12: Practice talks / poster presentations
+**Read before:**
+
+-   Trisos et al. 2021. Decoloniality and anti-oppressive practices for a more ethical ecology. [10.1038/s41559-021-01460-w](https://www.nature.com/articles/s41559-021-01460-w).
+
+-   ESA talk schedules.  The [organized oral sessions](https://www.esa.org/longbeach/program/organized-oral-sessions-schedules/) are 10 min talks (6 talks per session), and the [symposia](https://www.esa.org/longbeach/program/symposium-schedule/) are 15 min talks (4 talks per session).  Talks will be recorded, so you can pick and choose **individual talks** that sound interesting.
+
+**Additional readings:**
+
+-   Other papers in the "JEDI in STEM folder in our Zotero group
+
+#### Week 11: Practice talks / poster presentations
+
+Time for students to present their work so far.  This can be done in any format such as a few slides, a html document made with R Markdown, or a "chalk talk".  This is an opportunity to explain what questions you asked, what you learned, and show off preliminary results.  Try to include some figures or plots of your results.
+
+#### Week 12: Ecological Society of America meeting (Aug 2–6) watch party
+
+We will watch a few ESA talks together and leave comments as a group. Bring your snacks!
+
+You are encouraged to attend talks, workshops, and networking events throughout the week. Schedule(s) here: https://www.esa.org/longbeach/
