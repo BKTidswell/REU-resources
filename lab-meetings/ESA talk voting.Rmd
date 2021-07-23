@@ -1,0 +1,39 @@
+---
+title: "ESA Watch Party Voting"
+output: html_notebook
+---
+
+```{r}
+library(tidyverse)
+library(googlesheets4)
+library(vote)
+library(janitor)
+```
+
+# Read in data
+
+Read in the spreadsheet we used to recommend and rank talks.
+
+```{r}
+esa_talks <- read_sheet("1vgBwKzpHY9dgt2WGjOEWgIXoEXGuGTSDr8sjxmWRK6g") %>% clean_names()
+votes <-
+  esa_talks %>% 
+  mutate(short_title = str_trunc(talk_title, 25)) %>% 
+  select(author_s, eric, andrew, ellie, emilio) %>% 
+  rowwise() %>% 
+  mutate(novotes = all(c(is.na(eric), is.na(andrew), is.na(ellie), is.na(emilio)))) %>% 
+  filter(!novotes) %>% 
+  ungroup() %>% 
+  mutate(across(c(eric, andrew, ellie, emilio), as.integer))
+
+votes_wide <- 
+  votes %>% 
+  pivot_longer(-author_s, names_to = "voter", values_to = "rank") %>% 
+  pivot_wider(names_from = author_s, values_from = rank) %>% 
+  select(-voter) %>% as.data.frame()
+```
+
+```{r paged.print=FALSE}
+stv(votes_wide, mcan = 5)
+```
+
