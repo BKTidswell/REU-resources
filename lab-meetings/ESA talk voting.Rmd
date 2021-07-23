@@ -34,6 +34,6 @@ votes_wide <-
 ```
 
 ```{r paged.print=FALSE}
-stv(votes_wide, mcan = 5)
+approval(votes_wide, mcan = 5)
 ```
 
