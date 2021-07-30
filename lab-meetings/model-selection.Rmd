@@ -1,13 +1,27 @@
 ---
 title: "Hypothesis Testing and Model Selection"
-author: Eric R. Scott
-date: "2021-07-13"
-output: html_notebook
+author: "Eric R. Scott"
+date: '2021-07-13'
+output:
+  html_document:
+    df_print: paged
 ---
 
 # Summary
 
 If you have several predictors that could possibly explain some response, there are at least three general strategies for determining which (if any) are statistically important.  **Model selection** is the process of selecting among sets of predictors to find the set that best fits the data or best explains the response.  An alternative, the **marginal hypothesis test**, (AKA ANOVA) gives p-values for each predictor.  In general, it's not advised to mix the approaches.  Doing an ANOVA on an already reduced model biases the resulting p-values (ADD CITATION).
+
+# Literature examples
+
+Some examples of each of these approaches from the literature.  These are good models for how to report results from these approaches.
+
+1. Likelihood ratio test 
+    - [Crone 2013](https://www.journals.uchicago.edu/doi/10.1086/671999)
+2. AIC 
+    - [Crone & Willilams 2016](https://onlinelibrary.wiley.com/doi/10.1111/ele.12581)
+    - [Fisogni et al. 2020](https://onlinelibrary.wiley.com/doi/abs/10.1111/oik.07274)
+3. Marginal hypothesis test 
+    - [Nelson et al. 2020](https://onlinelibrary.wiley.com/doi/abs/10.1111/een.12794)
 
 This is an example of the approaches with some of Andrew's data and models
 
@@ -171,3 +185,9 @@ car::Anova(m_red)
 ```
 
 In the reduced model, the p-value for `bdffp_reserve_no` is quite a bit smaller than it is for the full model, because of the bias introduced by removing other predictors that, while not statistically significant, may explain some variation in the data.
+
+# Further Reading
+
+- Nice explanation of AIC vs. BIC: http://doi.wiley.com/10.1890/13-1452.1
+- Model Selection and Multimodel Inference: A Practical Information-theoretic Approach.[book](https://www.springer.com/gp/book/9780387953649)
+- Why not to do marginal hypothesis test *after* already having done model selection: [Taylor and Tibshirani 2015](http://www.pnas.org/lookup/doi/10.1073/pnas.1507583112)
