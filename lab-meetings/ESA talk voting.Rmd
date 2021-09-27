@@ -16,6 +16,7 @@ Read in the spreadsheet we used to recommend and rank talks.
 
 ```{r}
 esa_talks <- read_sheet("1vgBwKzpHY9dgt2WGjOEWgIXoEXGuGTSDr8sjxmWRK6g") %>% clean_names()
+
 votes <-
   esa_talks %>% 
   mutate(short_title = str_trunc(talk_title, 25)) %>% 
@@ -34,6 +35,6 @@ votes_wide <-
 ```
 
 ```{r paged.print=FALSE}
-approval(votes_wide, mcan = 5)
+approval(votes_wide, mcan = 4)
 ```
 
