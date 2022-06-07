@@ -46,10 +46,12 @@ Possible topics include (but aren't limited to):
 
 **Readings:**
 
--   [R for Data Science](https://r4ds.had.co.nz/) is a great book for beginner to intermediate R users that focuses on practical skills related to wrangling, visualizing, and exploring data (but not statistics) using the [tidyverse](https://www.tidyverse.org/). This book assumes you know a little bit about R, so it's probably not appropriate for those completely new to R or programming.
+-   [R Cookbook 2e](https://rc2e.com/) Chapters 1 - 3
+-   [R for Data Science](https://r4ds.had.co.nz/) Chapter 1 to 1.3
 
 **Additional Resources:**
 
+-   [R for Data Science](https://r4ds.had.co.nz/) is a great book for beginner to intermediate R users that focuses on practical skills related to wrangling, visualizing, and exploring data (but not statistics) using the [tidyverse](https://www.tidyverse.org/). This book assumes you know a little bit about R, so it's probably not appropriate for those completely new to R or programming.
 -   [R Cookbook 2e](https://rc2e.com/) is a great book that goes from beginner to advanced usage, and provides a good reference for a lot of R skills
 -   [Our Coding Club](https://ourcodingclub.github.io/tutorials.html) is a good site that goes through some of the basics in R, and has a lot of specific tutorials, that may be more niche than then other two books.
 
@@ -74,17 +76,22 @@ Possible topics include (but aren't limited to):
 -   [Refine Tracklets](https://www.youtube.com/watch?v=bEuBKB7eqmk&t=21s)
 -   [Refine Tracklets (Written Version)](https://github.com/DeepLabCut/DeepLabCut/blob/master/docs/maDLC_UserGuide.md#refine-tracklets)
 
+**Readings:**
+-   [R Cookbook 2e](https://rc2e.com/) Chapters 4, 5, 9
+-   [R for Data Science](https://r4ds.had.co.nz/) Chapter 2 to 5
+
 #### Week 5: Predator / Prey Interactions (June 27th)
 
 -   This week we'll be doing experiments on predator prey interactions. Hopefully with Pike, but maybe with Bass or Bluegill
 
 #### Week 6: Continue Data Processing (July 4th)
 
-**Read before:**
+**Readings:**
 
 -   Fraser et al. 2018. Questionable research practices in ecology and evolution
+-   [R for Data Science](https://r4ds.had.co.nz/) Chapter 7, 22 to 25
 
-**Additional readings:**
+**Additional Resources:**
 
 -   [The pre-registration revolution](https://www.pnas.org/content/115/11/2600)
 -   [Fanelli et al. 2017](https://link.springer.com/article/10.1007%2Fs11948-018-0023-7)
