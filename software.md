@@ -4,25 +4,19 @@ Useful software/web resources that the lab uses
 
 # Reference Manager
 
-We use [Zotero](https://www.zotero.org/) as a reference manager for organizing, sharing, reading, and annotating journal articles.
+I use [Zotero](https://www.zotero.org/) as a reference manager for organizing, sharing, reading, and annotating journal articles.
 Zotero is free to use, but the free plan does have a limit to how many PDFs it can store or sync to your personal library.
-If you join the [Bruna Lab group Zotero collection](https://www.zotero.org/groups/2603950/heliconia-frag-drought), however, this shouldn't be an issue.
-We recommend you download the desktop version of Zotero and install the browser connector.
+I recommend you download the desktop version of Zotero and install the browser connector.
 
 # Slack
 
 We will use the lab Slack as our main every day way of communication.
 Use it to ask questions, share resources, celebrate successes, or just to chat.
-Eric almost always has Slack open when he's working, and Emilio checks in often as well.
-
-# Zoom
-
-Meetings will be held over Zoom.
-If you don't already have Zoom installed, get started [here](https://ufl.zoom.us/)
+I almost always have Slack open while I'm working.
 
 # R and RStudio
 
-We primarily use the statistical programming language [R](https://cran.r-project.org/) for data wrangling and analysis.
+We will primarily use the statistical programming language [R](https://cran.r-project.org/) for data wrangling and analysis.
 It's best to interact with R through [RStudio](https://www.rstudio.com/).
 Both are free, and you should install both if you're going to use your personal computer.
 
@@ -34,20 +28,19 @@ Both are free, and you should install both if you're going to use your personal 
 ## Useful packages when getting started with R
 
 -   [Tidyverse](https://cran.r-project.org/web/packages/tidyverse/index.html): a set of packages for importing, tidying, and visualizing data (and so much more).
--   [usethis](https://cran.r-project.org/web/packages/usethis/index.html): Automate Package and Project Setup
 
 # Git and GitHub
 
 Git is a [version control](https://peerj.com/preprints/3159/) software that is probably already installed on your computer if you use a mac, and can be installed for Windows [here](https://git-scm.com/download/win).
 GitHub is this website right here!
 It's a website for collaboratively interacting with git-tracked projects.
-You will be trained in the use of git and GitHub as it will be an important way for us to share code and collaborate on projects.
+As we got along in the summer I'll show you hwo to use git and GitHub as it will be an important way for us to share code and collaborate on projects.
 
-## Resources and reference
+# DeepLabCut
 
--   RStudio [webinar](https://www.rstudio.com/resources/webinars/managing-part-2-github-and-rstudio/) on version control in general and using Git and GitHub through RStudio.
-    A bit old (2016), but it's not out of date.
+DeepLabCut is the software that we'll be using this summer in order to track fish videos. You'll need to install Python though Anaconda, and then use that to install DeepLabcut
 
--   [How to use Git with R and RStudio](https://www.geo.uzh.ch/microsite/reproducible_research/post/rr-rstudio-git/) is a web tutorial focused on using Git and GitHub from within RStudio.
-
--   A comprehensive guide for working with git and GitHub through RStudio: <https://happygitwithr.com/>
+-   [Install Anaconda](https://docs.anaconda.com/anaconda/install/)
+-   [Install DeepLabCut](https://github.com/DeepLabCut/DeepLabCut/blob/master/docs/installation.md)
+-   [Refine Tracklets](https://www.youtube.com/watch?v=bEuBKB7eqmk&t=21s)
+-   [Refine Tracklets (Written Version)](https://github.com/DeepLabCut/DeepLabCut/blob/master/docs/maDLC_UserGuide.md#refine-tracklets)
