@@ -1,7 +1,7 @@
 # Tytell Lab REU Summer 2022 resources
 
 This repository contains materials related to doing summer research in the Tytell lab in 2022.
-Be sure to check out the [mentoring agreement](mentoring-agreement.md), recommended [software](software.md) for the lab, and the [lab code of conduct](https://github.com/404).
+Be sure to check out the [recommended software](software.md) for the lab.
 
 ## Syllabus
 
@@ -36,7 +36,6 @@ Be sure to check out the [mentoring agreement](mentoring-agreement.md), recommen
     -   [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
     -   [RStudio Keyboard Shortcuts](https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts)
     -   [Customizing RStudio](https://support.rstudio.com/hc/en-us/articles/200549016-Customizing-RStudio)
-    -   Wickham & Grolemund: [R for Data Science](https://r4ds.had.co.nz/)
 
 #### Week 2: The Lateral Line and R (June 6th)
 
@@ -104,7 +103,7 @@ Possible topics include (but aren't limited to):
 
 **Posters**
 
-- Making Better Posters ([book/blog](http://betterposters.blogspot.com/)
+- Making Better Posters ([book/blog](http://betterposters.blogspot.com/))
 - [The Alternative New Poster Design that rocked the science world](https://www.insidehighered.com/news/2019/06/24/theres-movement-better-scientific-posters-are-they-really-better)
 - Pinterest Collections of cool posters: [Board 1](https://www.pinterest.co.uk/marieclairekoschowitz/awesome-conference-poster/), [Board 2](https://www.pinterest.co.uk/pin/852095191972801041/)
 
