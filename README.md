@@ -6,12 +6,9 @@ Be sure to check out the [recommended software](software.md) for the lab.
 ## Syllabus
 
 
-
 **Start date: June 1st**
 
 ------------------------------------------------------------------------
-
-### Module 1: Laying the foundation for a successful experience
 
 #### Week 1: Single Fish Filming (June 1st)
 
