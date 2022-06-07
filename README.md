@@ -120,3 +120,7 @@ Possible topics include (but aren't limited to):
 
 -   The REU Symposium is this week! We'll be working on your poster and data analysis
 -   Good time to start thinking about the Fall, if you want to continue research then.
+
+### Other Things To Do:
+
+-   Learn how to use and code Ardunios
