@@ -1,38 +1,28 @@
-# Bruna Lab REU Summer 2021 resources
+# Tytell Lab REU Summer 2022 resources
 
-This repository contains materials related to doing summer research in the Bruna lab in 2021.
-Be sure to check out the [mentoring agreement](mentoring-agreement.md), recommended [software](software.md) for the lab, and the [lab code of conduct](https://github.com/BrunaLab/Code_of_Conduct).
+This repository contains materials related to doing summer research in the Tytell lab in 2022.
+Be sure to check out the [mentoring agreement](mentoring-agreement.md), recommended [software](software.md) for the lab, and the [lab code of conduct](https://github.com/404).
 
 ## Syllabus
 
-In addition to weekly individual Zoom meetings with Eric, we will hold weekly lab meetings (time TBD) to discuss topics related to your projects as well as professional development and other important topics in science.
-The topics are subject to change (especially later in the summer) and we will ask for your feedback and suggestions, so think of this as a draft or an example.
-Additional readings are things you should look through on your own outside of lab meeting and discuss with everyone on Slack if you want.
-Readings can be found in the [lab Zotero collection](https://www.zotero.org/groups/2603950/heliconia-frag-drought) as well as in your welcome binder.
 
-**Start date: May 14th**
+
+**Start date: June 1st**
 
 ------------------------------------------------------------------------
 
 ### Module 1: Laying the foundation for a successful experience
 
-#### Week 1
+#### Week 1: Single Fish Filming (June 1st)
 
 1.  Welcome / Getting started.
-
-    **Read before:**
-
-    -   [Lab code of conduct](https://github.com/BrunaLab/Code_of_Conduct)
-    -   [Mentorship agreement](mentoring-agreement.md)
-
-    **Additional readings:**
 
     -   Chhatre 2020. Some modest and practical advice for undergraduate researchers.
     -   [How to (seriously) read a scientific paper.](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
 
 2.  Version Control & RStudio Projects.
 
-    **Read before:**
+    **Readings:**
 
     -   Bryan 2018. Excuse me, do you have a moment to talk about version control?
     -   Chapter 1 of [happygitwithr.com](https://happygitwithr.com/)
@@ -48,42 +38,32 @@ Readings can be found in the [lab Zotero collection](https://www.zotero.org/grou
     -   [Customizing RStudio](https://support.rstudio.com/hc/en-us/articles/200549016-Customizing-RStudio)
     -   Wickham & Grolemund: [R for Data Science](https://r4ds.had.co.nz/)
 
-#### Week 2: *Heliconia acuminata* and BDFFP
+#### Week 2: The Lateral Line and R (June 6th)
 
-Eric will give a presentation on his project, introducing the system and dataset(s) you'll be working with for your projects.
-
-**Read before:**
-
--   Bierregaard et al. 1992. The biological dynamics of tropical rainforest fragments. _BioScience_ 42(11): 859–866. [pdf](https://doi.org/10.2307/1312085)
--   Bruna, EM and WJ Kress 2002. Habitat fragmentation and the demographic structure of an Amazonian understory herb (*Heliconia acuminata*). *Conservation Biology* 16(5):1256-1266 [pdf of paper on Smithsonian repository](https://repository.si.edu/bitstream/handle/10088/1586/Bruna_and_Kress.pdf?sequence=1&isAllowed=y)
-
-**Additional readings:**
-
--   See lab Zotero collection or binder for additional papers.
-
-------------------------------------------------------------------------
-
-### Module 2: Professional development
-
-There are a few topics we think are essential that we discuss as a group, but we want your input on what else you'd like to discuss.
+There are a few topics I think are essential that we discuss but I want your input on what else you'd like to discuss.
 Possible topics include (but aren't limited to):
 
 -   Library research and bibliographic tools
 -   CV / resume workshop
 -   Applying to graduate school
--   Creating an R package
--   Hypotheses in ecology (when are they useful? how to write good ones?)
--   Ecology careers outside of academia
+-   Hypotheses in biology (when are they useful? how to write good ones?)
 
-#### Week 3: Reproducible research
+**Readings:**
 
-Presentation: <https://github.com/BrunaLab/reproducibility-presentation>
+-   [R for Data Science](https://r4ds.had.co.nz/) is a great book for beginner to intermediate R users that focuses on practical skills related to wrangling, visualizing, and exploring data (but not statistics) using the [tidyverse](https://www.tidyverse.org/). This book assumes you know a little bit about R, so it's probably not appropriate for those completely new to R or programming.
 
-**Read before:**
+**Additional Resources:**
+
+-   [R Cookbook 2e](https://rc2e.com/) is a great book that goes from beginner to advanced usage, and provides a good reference for a lot of R skills
+-   [Our Coding Club](https://ourcodingclub.github.io/tutorials.html) is a good site that goes through some of the basics in R, and has a lot of specific tutorials, that may be more niche than then other two books.
+
+#### Week 3: Single Fish Filming Take 2 (June 13th)
+
+**Reading:**
 
 -   Alston, J. M., and Rick, J. A.. 2020. A Beginner's Guide to Conducting Reproducible Research. Bull Ecol Soc Am 102( 2):e01801. [pdf](https://doi.org/10.1002/bes2.1801)
 
-**Additional readings:**
+**Additional Resources:**
 
 -   Wilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, Teal TK (2017) Good enough practices in scientific computing. PLoS Comput Biol 13(6): e1005510. [pdf](https://doi.org/10.1371/journal.pcbi.1005510)
 
@@ -91,18 +71,18 @@ Presentation: <https://github.com/BrunaLab/reproducibility-presentation>
 
 -   Karl W. Broman & Kara H. Woo (2018) Data Organization in Spreadsheets. The American Statistician, 72:1, 2-10, [pdf](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
 
-#### Week 4: Literature searching with Web of Science
+#### Week 4: Deeplabcut (June 20th)
 
-**Before:**
+-   [Install Anaconda](https://docs.anaconda.com/anaconda/install/)
+-   [Install DeepLabCut](https://github.com/DeepLabCut/DeepLabCut/blob/master/docs/installation.md)
+-   [Refine Tracklets](https://www.youtube.com/watch?v=bEuBKB7eqmk&t=21s)
+-   [Refine Tracklets (Written Version)](https://github.com/DeepLabCut/DeepLabCut/blob/master/docs/maDLC_UserGuide.md#refine-tracklets)
 
-- Check that you can log in to Web of Science using either a VPN or the [library  proxy link](http://apps.webofknowledge.com.lp.hscl.ufl.edu/)
+#### Week 5: Predator / Prey Interactions (June 27th)
 
+-   This week we'll be doing experiments on predator prey interactions. Hopefully with Pike, but maybe with Bass or Bluegill
 
-#### Week 5: Peer Code Review
-
-Andrew and Emilio have volunteered some of their code for our first [[peer code review]](https://github.com/BrunaLab/REU-resources/blob/main/lab-meetings/peer-code-review.md) session!
-
-#### Week 6: Avoiding "questionable research practices"
+#### Week 6: Continue Data Processing (July 4th)
 
 **Read before:**
 
@@ -114,15 +94,13 @@ Andrew and Emilio have volunteered some of their code for our first [[peer code 
 -   [Fanelli et al. 2017](https://link.springer.com/article/10.1007%2Fs11948-018-0023-7)
 -   [Fanelli 2009](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005738)
 
-#### Week 7: Andrew 
+#### Week 7: Ben Away (July 11th)
 
-#### Week 8: Ellie
+- I will be away this week, but still contactable by email. This will be a good week for you to process videos, and work more on R. 
 
-------------------------------------------------------------------------
+#### Week 8: ??? (July 18th)
 
-### Module 3: Science and Society
-
-#### Week 9: Science Communication
+#### Week 9: Science Communication (July 25th)
 
 **Posters**
 
@@ -137,30 +115,9 @@ Andrew and Emilio have volunteered some of their code for our first [[peer code 
 - The [`reprex` package](https://reprex.tidyverse.org/)
 - R Foundation Posting Guide: [How to ask good questions that prompt useful answers](https://www.r-project.org/posting-guide.html).
 - Example: [Emilio's first question](https://stackoverflow.com/questions/18406652/split-a-vector-into-three-vectors-of-unequal-length-in-r) on StackOverflow. After two days of struggling I posted the question at 15:33 pm; the solution was posted only four minutes later! And it can help others too...this question is the recipient of a "Famous Question" badge for having >10,000 views.
-- [UF R users list-serv](https://lists.ufl.edu/cgi-bin/wa?A0=R-USERS-L)
 - [StackOverflow](https://stackoverflow.com/)
 
+#### Week 10: Last Week! (August 1st)
 
-#### Week 10: Justice, equity, diversity, and inclusion (JEDI) in STEM
-
-This week we will discuss a paper and pick out a few ESA talks to watch durring our last week's lab meeting ESA watch party.
-
-**Read before:**
-
--   Trisos et al. 2021. Decoloniality and anti-oppressive practices for a more ethical ecology. [10.1038/s41559-021-01460-w](https://www.nature.com/articles/s41559-021-01460-w).
-
--   ESA talk schedules.  The [organized oral sessions](https://www.esa.org/longbeach/program/organized-oral-sessions-schedules/) are 10 min talks (6 talks per session), and the [symposia](https://www.esa.org/longbeach/program/symposium-schedule/) are 15 min talks (4 talks per session).  Talks will be recorded, so you can pick and choose **individual talks** that sound interesting.
-
-**Additional readings:**
-
--   Other papers in the "JEDI in STEM folder in our Zotero group
-
-#### Week 11: Practice talks / poster presentations
-
-Time for students to present their work so far.  This can be done in any format such as a few slides, a html document made with R Markdown, or a "chalk talk".  This is an opportunity to explain what questions you asked, what you learned, and show off preliminary results.  Try to include some figures or plots of your results.
-
-#### Week 12: Ecological Society of America meeting (Aug 2–6) watch party
-
-We will watch a few ESA talks together and leave comments as a group. Bring your snacks!
-
-You are encouraged to attend talks, workshops, and networking events throughout the week. Schedule(s) here: https://www.esa.org/longbeach/
+-   The REU Symposium is this week! We'll be working on your poster and data analysis
+-   Good time to start thinking about the Fall, if you want to continue research then.
