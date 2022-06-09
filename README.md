@@ -46,7 +46,8 @@ Possible topics include (but aren't limited to):
 
 **Readings:**
 
--   [R Cookbook 2e](https://rc2e.com/) Chapters 1 - 3
+-   Kasumyan, A. O. (2003). The Lateral Line in Fish: Structure, Function, and Role in Behavior. 43, 40.
+-   [R Cookbook 2e](https://rc2e.com/) Chapter 1
 -   [R for Data Science](https://r4ds.had.co.nz/) Chapter 1 to 1.3
 
 **Additional Resources:**
@@ -59,6 +60,7 @@ Possible topics include (but aren't limited to):
 
 **Reading:**
 
+-   [R Cookbook 2e](https://rc2e.com/) Chapter 2
 -   Alston, J. M., and Rick, J. A.. 2020. A Beginner's Guide to Conducting Reproducible Research. Bull Ecol Soc Am 102( 2):e01801. [pdf](https://doi.org/10.1002/bes2.1801)
 
 **Additional Resources:**
@@ -77,19 +79,22 @@ Possible topics include (but aren't limited to):
 -   [Refine Tracklets (Written Version)](https://github.com/DeepLabCut/DeepLabCut/blob/master/docs/maDLC_UserGuide.md#refine-tracklets)
 
 **Readings:**
--   [R Cookbook 2e](https://rc2e.com/) Chapters 4, 5, 9
--   [R for Data Science](https://r4ds.had.co.nz/) Chapter 2 to 5
+
+-   [R Cookbook 2e](https://rc2e.com/) Chapter 3
 
 #### Week 5: Predator / Prey Interactions (June 27th)
 
 -   This week we'll be doing experiments on predator prey interactions. Hopefully with Pike, but maybe with Bass or Bluegill
+
+**Readings:**
+-   [R Cookbook 2e](https://rc2e.com/) Chapter 4
 
 #### Week 6: Continue Data Processing (July 4th)
 
 **Readings:**
 
 -   Fraser et al. 2018. Questionable research practices in ecology and evolution
--   [R for Data Science](https://r4ds.had.co.nz/) Chapter 7, 22 to 25
+-   [R Cookbook 2e](https://rc2e.com/) Chapter 5
 
 **Additional Resources:**
 
@@ -101,11 +106,15 @@ Possible topics include (but aren't limited to):
 
 - I will be away this week, but still contactable by email. This will be a good week for you to process videos, and work more on R. 
 
+**Readings:**
+
+-   [R Cookbook 2e](https://rc2e.com/) Chapter 9
+
 #### Week 8: ??? (July 18th)
 
 #### Week 9: Science Communication (July 25th)
 
-**Posters**
+**Readings:**
 
 - Making Better Posters ([book/blog](http://betterposters.blogspot.com/))
 - [The Alternative New Poster Design that rocked the science world](https://www.insidehighered.com/news/2019/06/24/theres-movement-better-scientific-posters-are-they-really-better)
