@@ -94,7 +94,6 @@ Possible topics include (but aren't limited to):
 **Readings:**
 
 -   Fraser et al. 2018. Questionable research practices in ecology and evolution
--   [R Cookbook 2e](https://rc2e.com/) Chapter 5
 
 **Additional Resources:**
 
@@ -107,8 +106,6 @@ Possible topics include (but aren't limited to):
 - I will be away this week, but still contactable by email. This will be a good week for you to process videos, and work more on R. 
 
 **Readings:**
-
--   [R Cookbook 2e](https://rc2e.com/) Chapter 9
 
 #### Week 8: ??? (July 18th)
 
@@ -126,7 +123,7 @@ Possible topics include (but aren't limited to):
 - MUST READ: Hadley Wickham's [How to write a reproducible example](http://adv-r.had.co.nz/Reproducibility.html)
 - The [`reprex` package](https://reprex.tidyverse.org/)
 - R Foundation Posting Guide: [How to ask good questions that prompt useful answers](https://www.r-project.org/posting-guide.html).
-- Example: [Emilio's first question](https://stackoverflow.com/questions/18406652/split-a-vector-into-three-vectors-of-unequal-length-in-r) on StackOverflow. After two days of struggling I posted the question at 15:33 pm; the solution was posted only four minutes later! And it can help others too...this question is the recipient of a "Famous Question" badge for having >10,000 views.
+- Example: [Emilio's first question](https://stackoverflow.com/questions/18406652/split-a-vector-into-three-vectors-of-unequal-length-in-r) on StackOverflow. After two days of struggling Eric (not Eric Tytell) posted the question at 15:33 pm; the solution was posted only four minutes later! And it can help others too...this question is the recipient of a "Famous Question" badge for having >10,000 views.
 - [StackOverflow](https://stackoverflow.com/)
 
 #### Week 10: Last Week! (August 1st)
@@ -136,4 +133,4 @@ Possible topics include (but aren't limited to):
 
 ### Other Things To Do:
 
--   Learn how to use and code Ardunios
+-   Learn how to use and code Ardunios?
